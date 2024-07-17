@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**piscotel/piscotel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ପ(˶•-•˶)ଓ ♡
+# /づ  づ  (Hello, World!)
 
-Here are some ideas to get you started:
+```python
+about_me = {
+    name : "Miruna",
+    age : 18,
+    nationality : "Romanian",
+    languages : [("Romanian", "Native"),
+                 ("French", "C2"),
+                 ("English", "C1 - C2")
+                 ("German", "A2 - B1")]
+    school : "Université de Tours"
+    occupation : "Student"
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+programming = {
+    languages : ["Python", "Javascript"]
+    stylesheets : "CSS"
+    databases : "MySql"
+    }
+    
+    
+```
