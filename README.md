@@ -11,7 +11,6 @@ about_me = {
                  ("French", "C2"),
                  ("English", "C1 - C2")
                  ("German", "A2 - B1")]
-    school: "Université de Tours"
     occupation: "Student"
     }
 
